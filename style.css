@@ -1,0 +1,46 @@
+body {
+    width: 1000px;
+    padding-top: 10px;
+    margin: 0 auto;
+    font-size: 50px;    
+    background: gray;
+}
+
+button {
+    width: 100px;
+}
+
+.nowTarm {
+    width: 900px;
+    text-align: center;
+    background: green;
+}
+
+.head {
+   display: flex ;
+}
+
+.elapsedTime {
+    display: flex;
+    background: red;
+}
+
+.text {
+    width: 200px;
+    vertical-align: top;
+    text-align: center;
+    font-size: 20px;
+}
+
+.time {
+    width: 800px;
+    text-align: center;
+    font-size: 100px;
+}
+
+
+
+
+.nextTerm {
+    display: flex;
+}
